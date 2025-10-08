@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+build/control_rbkairos/control_rbkairos.egg-info/PKG-INFO
+build/control_rbkairos/control_rbkairos.egg-info/SOURCES.txt
+build/control_rbkairos/control_rbkairos.egg-info/dependency_links.txt
+build/control_rbkairos/control_rbkairos.egg-info/requires.txt
+build/control_rbkairos/control_rbkairos.egg-info/top_level.txt
+build/control_rbkairos/control_rbkairos.egg-info/zip-safe
+control_rbkairos/__init__.py
+resource/control_rbkairos
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+test/test_xmllint.py

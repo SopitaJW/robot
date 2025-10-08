@@ -1,0 +1,33 @@
+[0.474s] Invoking command in '/home/bubu/week6_ws/src/control_rbkairos': PYTHONPATH=/home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/control_rbkairos build --build-base /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build install --record /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/install.log --single-version-externally-managed install_data
+[0.627s] running egg_info
+[0.628s] creating build/control_rbkairos/control_rbkairos.egg-info
+[0.638s] writing build/control_rbkairos/control_rbkairos.egg-info/PKG-INFO
+[0.638s] writing dependency_links to build/control_rbkairos/control_rbkairos.egg-info/dependency_links.txt
+[0.638s] writing requirements to build/control_rbkairos/control_rbkairos.egg-info/requires.txt
+[0.639s] writing top-level names to build/control_rbkairos/control_rbkairos.egg-info/top_level.txt
+[0.639s] writing manifest file 'build/control_rbkairos/control_rbkairos.egg-info/SOURCES.txt'
+[0.660s] reading manifest file 'build/control_rbkairos/control_rbkairos.egg-info/SOURCES.txt'
+[0.660s] adding license file 'LICENSE'
+[0.660s] writing manifest file 'build/control_rbkairos/control_rbkairos.egg-info/SOURCES.txt'
+[0.660s] running build
+[0.660s] running build_py
+[0.660s] creating /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build
+[0.661s] creating /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build/lib
+[0.661s] creating /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build/lib/control_rbkairos
+[0.661s] copying control_rbkairos/__init__.py -> /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build/lib/control_rbkairos
+[0.661s] running install
+[0.665s] running install_lib
+[0.675s] creating /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages/control_rbkairos
+[0.675s] copying /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build/lib/control_rbkairos/__init__.py -> /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages/control_rbkairos
+[0.675s] byte-compiling /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages/control_rbkairos/__init__.py to __init__.cpython-312.pyc
+[0.675s] running install_data
+[0.676s] creating /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/share/ament_index
+[0.676s] creating /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/share/ament_index/resource_index
+[0.676s] creating /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/share/ament_index/resource_index/packages
+[0.676s] copying resource/control_rbkairos -> /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/share/ament_index/resource_index/packages
+[0.676s] copying package.xml -> /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/share/control_rbkairos
+[0.676s] running install_egg_info
+[0.687s] Copying build/control_rbkairos/control_rbkairos.egg-info to /home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages/control_rbkairos-0.0.0-py3.12.egg-info
+[0.688s] running install_scripts
+[0.757s] writing list of installed files to '/home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/install.log'
+[0.773s] Invoked command in '/home/bubu/week6_ws/src/control_rbkairos' returned '0': PYTHONPATH=/home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubu/week6_ws/src/control_rbkairos/install/control_rbkairos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/control_rbkairos build --build-base /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/build install --record /home/bubu/week6_ws/src/control_rbkairos/build/control_rbkairos/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/home/sopitaj/week6_ws/build/robotnik_description/ament_cmake_core/robotnik_descriptionConfig-version.cmake

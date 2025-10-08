@@ -1,0 +1,1 @@
+/home/sopitaj/week6_ws/build/control_rbkairos/scripts/robot_movement.py

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+control_rbkairos/__init__.py
+control_rbkairos/move_robot.py
+control_rbkairos.egg-info/PKG-INFO
+control_rbkairos.egg-info/SOURCES.txt
+control_rbkairos.egg-info/dependency_links.txt
+control_rbkairos.egg-info/entry_points.txt
+control_rbkairos.egg-info/requires.txt
+control_rbkairos.egg-info/top_level.txt
+control_rbkairos.egg-info/zip-safe
+launch/gazebo.launch.py
+launch/gazebo_robot.launch.py
+launch/gz_spawn_rbkairos.launch.py
+scripts/robot_movement.py
+urdf/rbrobout.urdf.xacro
